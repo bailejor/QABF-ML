@@ -1,4 +1,4 @@
-By: Jordan D. Bailey
+By: Jordan D. Bailey and Mark J. Rzeszutek (R code LDA and Logistic Regression)
 # QABF-ML
 Machine learning code for predicting behavioral function
 Download the QABF-Final.py file and/or the QABF-crossval.py file along with the RealdataIntensity.csv file. 
